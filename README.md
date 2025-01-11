@@ -1,4 +1,3 @@
-
 ## Hi there 👋
 
 # 👨‍💻 Bhanu Teja Giddaluru
