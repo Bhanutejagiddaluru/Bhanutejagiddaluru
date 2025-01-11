@@ -62,7 +62,7 @@ Passionate about building intelligent machines that think, learn, and act! From 
 - MATLAB
 
 ---
-![Goal of the Year](github_contributions.jpg)
+![Goal of the Year](github_contributions.png)
 ### 📞 Get in Touch
 
 - ✉️ **Email:** giddalurubhanuteja@gmail.com  
