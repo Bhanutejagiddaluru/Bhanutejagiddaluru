@@ -71,3 +71,9 @@ Passionate about building intelligent machines that think, learn, and act! From 
 - 🎥 **YouTube:** [Demo Projects](https://youtu.be/R4vdIAV3kuA?si=BXMTjXRZbfZU5uIZ)
 
 Let's collaborate and build something amazing! 🚀🤖
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
