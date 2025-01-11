@@ -1,4 +1,3 @@
-
 ## Hi there 👋, I'm 👨‍💻 Bhanu Teja Giddaluru!
 
 ### Robotics System Engineer | AI Enthusiast | Innovator
@@ -63,7 +62,7 @@ Passionate about building intelligent machines that think, learn, and act! From 
 - MATLAB
 
 ---
-
+![Goal of the Year](github_contributions.jpg)
 ### 📞 Get in Touch
 
 - ✉️ **Email:** giddalurubhanuteja@gmail.com  
