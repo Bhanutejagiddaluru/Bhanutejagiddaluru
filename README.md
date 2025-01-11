@@ -5,6 +5,7 @@
 ---
 
 ### 🛠️ About Me
+![hello](robot_hello.gif)
 
 Passionate about building intelligent machines that think, learn, and act! From creating remote-controlled cars in high school to developing cutting-edge autonomous systems, my journey in robotics has been driven by curiosity and innovation.
 
