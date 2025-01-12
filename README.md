@@ -9,8 +9,9 @@
 I've always chosen to 𝓯𝓸𝓵𝓵𝓸𝔀 𝓶𝔂 𝓱𝓮𝓪𝓻𝓽, which led me to pursue my passion for 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬—building machines that think and act. I will 𝓃𝑒𝓋𝑒𝓇 𝓈𝓉𝑜𝓅 seeking ways for the existence of life in the universe, break new ground, and create impactful robotic systems.
 
 𝐓𝐡𝐞 𝐒𝐭𝐚𝐫𝐭 𝐨𝐟 𝐌𝐲 𝐑𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐀𝐝𝐯𝐞𝐧𝐭𝐮𝐫𝐞 𝐉𝐨𝐮𝐫𝐧𝐞𝐲
-- ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-- 
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 My love for robots blossomed gradually, like a flower unfurling its petals. From childhood encounters with toys that moved and responded, to awe-inspiring films that brought machines to life, each experience deepened my fascination. Robots became my companions in exploration, sparking a curiosity about technology and endless possibilities. During high school, I built a robotic car. Even when others laughed, calling it just a remote control car, I believed in myself. I love to build rather than buy, and some of my best memories come from creating things on my own.
 
 In the first two years of my bachelor's, I worked on various hardware projects, gaining an understanding of fundamentals like infrared sensors, proximity sensors, and LEDs. I completed around 13 projects and had the opportunity to collaborate on a mechatronics project—a Bomb Detector Rover—with senior students. This success earned me recognition, and I was elected President of my college's Robotics and Innovations Club. During this time, I mentored over 40 projects, including my final-year project: an Autonomous Drone using Deep Neural Networks.
