@@ -15,6 +15,7 @@ My love for robots blossomed gradually, like a flower unfurling its petals. From
 In the first two years of my bachelor's, I worked on various hardware projects, gaining an understanding of fundamentals like infrared sensors, proximity sensors, and LEDs. I completed around 13 projects and had the opportunity to collaborate on a mechatronics project—a Bomb Detector Rover—with senior students. This success earned me recognition, and I was elected President of my college's Robotics and Innovations Club. During this time, I mentored over 40 projects, including my final-year project: an Autonomous Drone using Deep Neural Networks.
 
 Although I excelled at hardware, I realized I needed to improve my software skills to fulfill my goal of becoming a robotics engineer. This realization led me to pursue a master's in Artificial Intelligence. Later, I became a Teaching Assistant for both the AI course and Introduction to Intelligent Robotics, where balancing both hardware and software knowledge has been key to achieving my dream in robotics.
+
 ---
 
 ### 📊 Technical Skills
