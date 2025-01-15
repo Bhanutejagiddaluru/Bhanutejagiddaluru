@@ -35,7 +35,7 @@ Although I excelled at hardware, I realized I needed to improve my software skil
 - **Autonomous Restaurant Robot:** Developed with ROS, Nav, and SLAM achieving 95.7% path-planning accuracy. [GitHub](https://github.com/Bhanutejagiddaluru/Autonomous_Restaurant_Robot)
 - **Autonomous Vehicle Pedestrian Analysis:** YOLOv9-powered behavior detection model with 92.4% accuracy. [GitHub](https://github.com/Bhanutejagiddaluru/Autonomous-Vehicle-Pedestrian-Analysis)
 - **Surveillance Robot:** Designed an unmanned ground vehicle with advanced object detection and AI command loop. [GitHub](https://github.com/Bhanutejagiddaluru/Surveillance_Robot)
-- **Robotic Fruit Picking:** Implemented deep learning for UAVs to identify and pluck ripe fruits.
+- **Robotic Fruit Picking:** Implemented deep learning for UAVs to identify and pluck ripe fruits. [GItHub](https://github.com/Bhanutejagiddaluru/Robotic_Fruit_Picking)
 
 ---
 <!-- ![Goal of the Year](git_contribution_snake.gif) -->
