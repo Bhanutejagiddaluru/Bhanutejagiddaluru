@@ -20,36 +20,53 @@ Although I excelled at hardware, I realized I needed to improve my software skil
 
 ---
 <style>
+  /* Container for the technical skills */
   .skills {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr); /* Two-column layout */
     gap: 20px;
     margin-top: 20px;
+    max-width: 900px; /* Limits the maximum width */
+    margin-left: auto;
+    margin-right: auto;
   }
 
+  /* Individual skill card styling */
   .skill-set {
     background-color: #f8f9fa;
     border: 1px solid #ddd;
-    padding: 15px;
+    padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
 
+  /* Title for each skill category */
   .skill-set h4 {
     color: #2d3e50;
     font-size: 18px;
     margin-bottom: 10px;
     font-weight: bold;
+    text-transform: uppercase; /* Make the skill category title uppercase */
   }
 
+  /* Skill list items styling */
   .skill-set p {
     color: #555;
     font-size: 14px;
+    line-height: 1.6;
   }
 
+  /* Ensures proper alignment of the title and text */
   .skill-set h4,
   .skill-set p {
     margin: 0;
+  }
+
+  /* Adjust the layout to be responsive on smaller screens */
+  @media (max-width: 600px) {
+    .skills {
+      grid-template-columns: 1fr; /* Single column layout on small screens */
+    }
   }
 </style>
 
@@ -77,6 +94,7 @@ Although I excelled at hardware, I realized I needed to improve my software skil
     <p>STM32, Jetson Nano, Raspberry Pi, Arduino, ESP32, Automotive RADAR</p>
   </div>
 </div>
+
 
 ---
 
