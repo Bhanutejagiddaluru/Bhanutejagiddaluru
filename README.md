@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ About Me
+### About Me
 
 I've always chosen to 𝓯𝓸𝓵𝓵𝓸𝔀 𝓶𝔂 𝓱𝓮𝓪𝓻𝓽, which led me to pursue my passion for 𝐫𝐨𝐛𝐨𝐭𝐢𝐜𝐬—building machines that think and act. I will 𝓃𝑒𝓋𝑒𝓇 𝓈𝓉𝑜𝓅 seeking ways for the existence of life in the universe, break new ground, and create impactful robotic systems.
 
@@ -19,86 +19,17 @@ In the first two years of my bachelor's, I worked on various hardware projects, 
 Although I excelled at hardware, I realized I needed to improve my software skills to fulfill my goal of becoming a robotics engineer. This realization led me to pursue a master's in Artificial Intelligence. Later, I became a Teaching Assistant for both the AI course and Introduction to Intelligent Robotics, where balancing both hardware and software knowledge has been key to achieving my dream in robotics.
 
 ---
-<style>
-  /* Container for the technical skills */
-  .skills {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two-column layout */
-    gap: 20px;
-    margin-top: 20px;
-    max-width: 900px; /* Limits the maximum width */
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  /* Individual skill card styling */
-  .skill-set {
-    background-color: #f8f9fa;
-    border: 1px solid #ddd;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-
-  /* Title for each skill category */
-  .skill-set h4 {
-    color: #2d3e50;
-    font-size: 18px;
-    margin-bottom: 10px;
-    font-weight: bold;
-    text-transform: uppercase; /* Make the skill category title uppercase */
-  }
-
-  /* Skill list items styling */
-  .skill-set p {
-    color: #555;
-    font-size: 14px;
-    line-height: 1.6;
-  }
-
-  /* Ensures proper alignment of the title and text */
-  .skill-set h4,
-  .skill-set p {
-    margin: 0;
-  }
-
-  /* Adjust the layout to be responsive on smaller screens */
-  @media (max-width: 600px) {
-    .skills {
-      grid-template-columns: 1fr; /* Single column layout on small screens */
-    }
-  }
-</style>
-
 ### Technical Skills
 
-<div class="skills">
-  <div class="skill-set">
-    <h4>Programming:</h4>
-    <p>Python, C, C++, Java, SQL, MATLAB, VHDL, Verilog, Assembly</p>
-  </div>
-  <div class="skill-set">
-    <h4>Robotics:</h4>
-    <p>ROS, SLAM, Rviz, Gazebo, CAN, LIN, UART, I2C, SPI</p>
-  </div>
-  <div class="skill-set">
-    <h4>AI/ML:</h4>
-    <p>TensorFlow, PyTorch, Transformers, Langchain, NLP, LLMs</p>
-  </div>
-  <div class="skill-set">
-    <h4>Software Tools:</h4>
-    <p>SolidWorks, Easy-EDA, OpenCV, Git, Android Studio</p>
-  </div>
-  <div class="skill-set">
-    <h4>Hardware:</h4>
-    <p>STM32, Jetson Nano, Raspberry Pi, Arduino, ESP32, Automotive RADAR</p>
-  </div>
-</div>
-
+- **Programming:** Python, C, C++, Java, SQL, MATLAB, VHDL, Verilog, Assembly
+- **Robotics:** ROS, SLAM, Rviz, Gazebo, CAN, LIN, UART, I2C, SPI
+- **AI/ML:** TensorFlow, PyTorch, Transformers, Langchain, NLP, LLMs
+- **Software Tools:** SolidWorks, Easy-EDA, OpenCV, Git, Android Studio
+- **Hardware:** STM32, Jetson Nano, Raspberry Pi, Arduino, ESP32, Automotive RADAR
 
 ---
 
-### 💎 Projects
+### Projects
 
 - **Autonomous Restaurant Robot:** Developed with ROS, Nav, and SLAM achieving 95.7% path-planning accuracy. [GitHub](https://github.com/Bhanutejagiddaluru/Autonomous_Restaurant_Robot)
 - **Autonomous Vehicle Pedestrian Analysis:** YOLOv9-powered behavior detection model with 92.4% accuracy. [GitHub](https://github.com/Bhanutejagiddaluru/Autonomous-Vehicle-Pedestrian-Analysis)
@@ -108,7 +39,7 @@ Although I excelled at hardware, I realized I needed to improve my software skil
 ---
 <!-- ![Goal of the Year](git_contribution_snake.gif) -->
 
-### 📞 Get in Touch
+### Get in Touch
 
 - ✉️ **Email:** giddalurubhanuteja@gmail.com  
 - 👥 **LinkedIn:** [giddalurubhanuteja](https://www.linkedin.com/in/giddalurubhanuteja/)  
