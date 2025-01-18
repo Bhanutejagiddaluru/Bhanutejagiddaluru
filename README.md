@@ -20,13 +20,30 @@ Although I excelled at hardware, I realized I needed to improve my software skil
 
 ---
 
-### 📊 Technical Skills
+### Technical Skills
 
-- **Programming:** Python, C, C++, Java, SQL, MATLAB, VHDL, Verilog, Assembly
-- **Robotics:** ROS, SLAM, Rviz, Gazebo, CAN, LIN, UART, I2C, SPI
-- **AI/ML:** TensorFlow, PyTorch, Transformers, Langchain, NLP, LLMs
-- **Software Tools:** SolidWorks, Easy-EDA, OpenCV, Git, Android Studio
-- **Hardware:** STM32, Jetson Nano, Raspberry Pi, Arduino, ESP32, Automotive RADAR
+<div class="skills">
+  <div class="skill-set">
+    <h4>Programming:</h4>
+    <p>Python, C, C++, Java, SQL, MATLAB, VHDL, Verilog, Assembly</p>
+  </div>
+  <div class="skill-set">
+    <h4>Robotics:</h4>
+    <p>ROS, SLAM, Rviz, Gazebo, CAN, LIN, UART, I2C, SPI</p>
+  </div>
+  <div class="skill-set">
+    <h4>AI/ML:</h4>
+    <p>TensorFlow, PyTorch, Transformers, Langchain, NLP, LLMs</p>
+  </div>
+  <div class="skill-set">
+    <h4>Software Tools:</h4>
+    <p>SolidWorks, Easy-EDA, OpenCV, Git, Android Studio</p>
+  </div>
+  <div class="skill-set">
+    <h4>Hardware:</h4>
+    <p>STM32, Jetson Nano, Raspberry Pi, Arduino, ESP32, Automotive RADAR</p>
+  </div>
+</div>
 
 ---
 
