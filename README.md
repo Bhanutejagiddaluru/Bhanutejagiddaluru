@@ -19,6 +19,39 @@ In the first two years of my bachelor's, I worked on various hardware projects, 
 Although I excelled at hardware, I realized I needed to improve my software skills to fulfill my goal of becoming a robotics engineer. This realization led me to pursue a master's in Artificial Intelligence. Later, I became a Teaching Assistant for both the AI course and Introduction to Intelligent Robotics, where balancing both hardware and software knowledge has been key to achieving my dream in robotics.
 
 ---
+<style>
+  .skills {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .skill-set {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .skill-set h4 {
+    color: #2d3e50;
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+
+  .skill-set p {
+    color: #555;
+    font-size: 14px;
+  }
+
+  .skill-set h4,
+  .skill-set p {
+    margin: 0;
+  }
+</style>
 
 ### Technical Skills
 
