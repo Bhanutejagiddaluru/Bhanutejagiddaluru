@@ -1,6 +1,7 @@
-## Hi there 👋, I'm Bhanu G
+## Hi there 👋, I'm Bhanu G, a Software Engineer passionate about **AI/ML, full-stack development, and scalable systems**.  
+I enjoy solving real-world problems, building projects from scratch, and continuously learning new technologies.  
 
-### Software Engineer — Machine Learning | Scalable Systems | MLOps
+📂 Check out my repositories for projects on machine learning, pipelines, and full-stack applications.  
 
 ---
 
