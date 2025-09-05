@@ -4,8 +4,9 @@
 
 ---
 
-### Get in Touch
-- 👥 LinkedIn: https://www.linkedin.com/in/giddalurubhanuteja/  
+---
+📫 **Reach me at:** [bgiddalu@gmail.com] | [LinkedIn](https://www.linkedin.com/in/giddalurubhanuteja/ ) 
+  
 
 Let’s build something impactful.
 
