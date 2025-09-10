@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Bhanu G
+## Hi there 👋, I'm [Bhanu G](https://www.linkedin.com/in/giddalurubhanuteja/ )
 [Naruto](naruto.gif)
 ---
 I'm a Software Engineer passionate about **AI/ML, full-stack development, and scalable systems**.  
@@ -7,7 +7,7 @@ I enjoy solving real-world problems, building projects from scratch, and continu
 📂 Check out my repositories for projects on machine learning, pipelines, and full-stack applications.  
 
 ---
-📫 **Reach me at:** [bgiddalu@gmail.com] | [LinkedIn](https://www.linkedin.com/in/giddalurubhanuteja/ ) 
+📫 **Reach me at:** [bgiddalu@gmail.com] |  
   
 
 Let’s build something impactful.
