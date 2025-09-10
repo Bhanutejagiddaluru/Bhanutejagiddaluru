@@ -7,7 +7,6 @@ I enjoy solving real-world problems, building projects from scratch, and continu
 📂 Check out my repositories for projects on machine learning, pipelines, and full-stack applications.  
 
 ---
-📫 **Reach me at:** [bgiddalu@gmail.com] |  
   
 
 Let’s build something impactful.
