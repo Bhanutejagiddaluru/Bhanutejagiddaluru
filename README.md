@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm [Bhanu G](https://www.linkedin.com/in/giddalurubhanuteja/ )
-[Naruto](naruto.gif)
+
+Naruto(naruto.gif)
 ---
 I'm a Software Engineer passionate about **AI/ML, full-stack development, and scalable systems**.  
 I enjoy solving real-world problems, building projects from scratch, and continuously learning new technologies.  
