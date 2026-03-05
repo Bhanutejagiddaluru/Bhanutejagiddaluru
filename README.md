@@ -1,7 +1,6 @@
 ## Hi there 👋
 
----
-  
+---  
 I enjoy solving real-world problems, building projects from scratch, and continuously learning new technologies.  
 
 📂 Check out my repositories for projects on machine learning, pipelines, and full-stack applications.  
