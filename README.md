@@ -5,8 +5,6 @@ I enjoy solving real-world problems, building projects from scratch, and continu
 
 ---
 Let’s build something impactful.
----
-----------------------------------
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhanutejagiddaluru/Bhanutejagiddaluru/output/github-snake-dark.svg" />
