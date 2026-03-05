@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 ---
   
 I enjoy solving real-world problems, building projects from scratch, and continuously learning new technologies.  
